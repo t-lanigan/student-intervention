@@ -1,4 +1,4 @@
-# Project 2: Supervised Learning
+# Supervised Learning
 ## Building a Student Intervention System
 
 [HTML portfolio page](https://t-lanigan.github.io/student-intervention/)
